@@ -1,0 +1,416 @@
+@media (min-width: 1800px) {
+.vendula_image img {
+  float: right;
+  position: relative;
+}
+.mobile_area{display:none;}
+}
+@media only screen and (max-width : 1224px) {
+.vendula_image img {
+  float: right;
+  position: relative;
+}
+.mobile_area{display:none;}
+.mobile_animation{display:none;}
+}
+
+
+/*//// Tablet Layout: 1170px. ///////*/
+
+@media only screen and (min-width: 1170px){
+.container {width:1170px}
+
+/*porque-nosotros page */
+
+
+/*que-ofrecous page */
+
+/*garantiza-tus-ventas */
+
+
+
+/*terminos-y-page */
+
+/*contact-form-page */
+.slider_text {
+  display: block;
+}
+.mobile_area{display:none;}
+.mainmenu_area{display:block;}
+.mobile_animation{display:none;}
+}
+
+/*//// Tablet Layout: 970px. ///////*/
+
+@media only screen and (min-width: 970px) and (max-width: 1169px) {
+.container {width:970px;}
+.controlla_single.controlla_sin_last {
+  padding: 0;
+}
+.controlla_sin_last img {
+  padding-bottom: 0;
+  width: 100%;
+}
+/*porque-nosotros page */
+.pargue_single_box {
+  height: 70px;
+  margin: 13px 4px;
+  width: 124px;
+}
+.pargue_single_box.prgue_box_another > p {
+  font-size: 15px;
+  padding-top: 0;
+}
+.main_porque_client ul li {
+  padding: 0 20px;
+}
+/*que-ofrecous page */
+
+/*garantiza-tus-ventas */
+
+/*terminos-y-page */
+/*contact-form-page */
+.slider_text {
+  display: block;
+}
+.mainmenu_area ul#nav li a {
+  padding: 20px 15px;
+}
+.mobile_area{display:none;}
+.mainmenu_area{display:block;}
+.mobile_animation{display:none;}
+}
+
+
+/*////Tablet Layout: 750px. ///////*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.container {width:750px}
+.anothermenu ul li {
+  padding: 0 5px;
+}
+.controlla_single.controlla_sin_last {
+  padding: 0;
+}
+.controlla_sin_last img {
+  padding-bottom: 0;
+  width: 100%;
+}
+/*porque-nosotros page */
+.pargue_single_box {
+  border: 1px solid #b4abbb;
+  float: left;
+  height: 70px;
+  margin: 15px 5px;
+  text-align: center;
+  width: 84px;
+}
+.pargue_single_box p {
+  font-size: 17px;
+  margin-top: 20px;
+}
+.pargue_single_box.prgue_box_another > p {
+  font-size: 12px;
+  padding-top: 0;
+}
+.main_porque_client ul li {
+  padding: 0;
+}
+/*que-ofrecous page */
+.menu_ofreces ul li:first-child {
+  margin-left: 30px;
+}
+/*garantiza-tus-ventas */
+
+/*terminos-y-page */
+/*contact-form-page */
+.contact_form input {
+  width: 300px;
+}
+.contact_form textarea {
+  width: 300px;
+}
+.single_info_co_img {
+  width: 19%;
+}
+.slider_text {
+  display: block;
+}
+.slider_area {
+  background: url("img/slider.jpg") no-repeat scroll -248px 0 / cover  #f0f5f8;
+}
+.mainmenu_area ul#nav li a {
+  font-size: 13px;
+  padding: 20px 5px;
+}
+.mobile_area{display:none;}
+.mainmenu_area{display:block;}
+.mobile_animation{display:none;}
+}
+
+
+/*////mobile : >750px. ///////*/
+@media (max-width: 768px) {
+.vendula_image img {
+  margin-top: 0;
+  position: relative;
+  right: 0;
+  width: 100%;
+}
+.vendilo_text {
+  padding-top: 26px;
+}
+.controlla_single.controlla_sin_last {
+  padding: 0;
+}
+.controlla_sin_last img {
+  padding-bottom: 0;
+  width: 100%;
+}
+.socila_icon {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 12px;
+}
+/*porque-nosotros page */
+.porque_content p {
+  font-size: 15px;
+  width: 100%;
+}
+/*que-ofrecous page */
+.box_ofrecemos_text {
+  width: 100%;
+}
+.pricing_single {
+  margin-bottom: 15px;
+}
+.menu_ofreces ul li a {
+  padding: 0 14px;
+}
+.socilla_top_menu {
+  text-align: center;
+}
+.pricing_table_one ul {
+  padding: 20px 0 0;
+}
+
+/*garantiza-tus-ventas */
+.garantiza_slider_img img {
+  width: 100%;
+}
+.ebay_text img {
+  width: 100%;
+}
+/*terminos-y-page */
+/*contact-form-page */
+.contact_form input[type="submit"] {
+  margin: 0;
+}
+.slider_text {
+  display: none;
+}
+.mainmenu_area{display:none;}
+
+.slider_area {
+background: url("img/slider-one.jpg") no-repeat scroll 0 0px / 100% auto rgba(0, 0, 0, 0);
+margin-top: 0;
+min-height: 300px;
+}
+.internet_heading {
+  padding-top: 10px;
+}
+.single_catagor {
+}
+.anotherlight_box {
+  height: 455px;
+  width: 100%;
+}
+.anothercontact_light input {
+  width: 100%;
+}
+.same_one_in {
+  margin-left: 0;
+  width: 31% !important;
+}
+.anotherlightbox_main p span {
+  font-size: 19px;
+}
+.logo img {
+  width: 100%;
+}
+.anotherlight_box {
+  height: auto;
+}
+.light_box_contact {
+  height: auto;
+}
+
+
+
+
+
+
+
+.mobile_animation > img {
+  width: 100%;
+}
+.desktop_area{display:none;}
+.mob_logo img {
+height: auto;
+margin-top: 7px;
+}
+.mobile_area{display:block;}
+.need_choose_class {
+  display: none;
+}
+.mobile_animation{display:block;}
+
+}
+
+
+/*////mobile Layout: >450px. ///////*/
+@media (max-width: 450px) { 
+.vendula_image img {
+  margin-top: 0;
+
+  position: relative;
+  right: 0;
+  width: 100%;
+}
+.vendilo_text {
+  padding-top: 26px;
+}
+.controlla_single.controlla_sin_last {
+  padding: 0;
+}
+.controlla_sin_last img {
+  padding-bottom: 0;
+  width: 100%;
+}
+.socila_icon {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 12px;
+}
+/*porque-nosotros page */
+.porque_content p {
+  font-size: 15px;
+  width: 100%;
+}
+/*que-ofrecous page */
+.box_ofrecemos_text {
+  width: 100%;
+}
+.pricing_single {
+  margin-bottom: 15px;
+}
+.menu_ofreces ul li:first-child {
+  margin-left: 0;
+}
+.menu_ofreces ul li a {
+  padding: 0 14px;
+}
+.pricing_table_one ul {
+  padding: 20px 0 0;
+}
+/*garantiza-tus-ventas */
+.garantiza_slider_img img {
+  width: 100%;
+}
+.economic_ebay {
+  float: none;
+  width: 100%;
+}
+.ebay_text {
+  float: none;
+  padding: 30px;
+  width: 100%;
+}
+/*terminos-y-page */
+/*contact-form-page */
+.contact_form input {
+  width: 100%;
+}
+.contact_form textarea {
+  width: 100%;
+}
+.slider_text {
+  display: none;
+}
+
+.mainmenu_area{display:none;}
+.slider_area {
+background: url("img/slider-one.jpg") no-repeat scroll 0 0px / 100% auto rgba(0, 0, 0, 0);
+margin-top: 0;
+min-height: 210px;
+}
+.internet_heading {
+  padding-top: 10px;
+}
+.single_catagor {
+}
+
+
+.anotherlight_box {
+  height: 455px;
+  width: 100%;
+}
+.anothercontact_light input {
+  width: 100%;
+}
+.same_one_in {
+  margin-left: 0;
+  width: 31% !important;
+}
+.anotherlightbox_main p span {
+  font-size: 19px;
+}
+.logo img {
+  width: 100%;
+}
+.single_catagor img {
+  width: 95%;
+}
+.single_google img {
+  width: auto;
+}
+.single_catagor a img{width:24px;}
+.single_catagor {
+  height: 270px;
+}
+.socilla_top_menu {
+  text-align: center;
+}
+.light_box_contact {
+  width: 100%;
+}
+.contact_light input {
+  width: 100%;
+}
+.light_box_contact {
+  height: auto;
+}
+.anotherlight_box {
+  height: auto;
+}
+.anothercontact_light input[type="submit"] {
+  width: 100%;
+}
+
+
+
+
+
+
+
+.mobile_animation > img {
+  width: 100%;
+}
+.need_choose_class {
+  display: none;
+}
+.desktop_area{display:none;}
+.mobile_area{display:block;}
+.mobile_animation{display:block;}
+
+} 
